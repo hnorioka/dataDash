@@ -31,7 +31,7 @@
         'Saturday'
       ],
       datasets: [{
-        data: dt,
+        data: dt2,
         lineTension: 0,
         backgroundColor: 'transparent',
         borderColor: '#007bff',
